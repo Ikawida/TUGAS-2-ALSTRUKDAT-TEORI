@@ -1,4 +1,4 @@
-// Tulislah sebuah fungsi program dengan kondisi, sebagai berikut:Terdapat sebuah sorted array of strings yang mana terdapat string kosong diantaranya, carilah lokasi/indeks dari kata yang dicari! (30 Poin) Input: bola, {"Adi","","","" "bermain", "", "bola", "", "", "sedang"} Output: 6
+// 3.Tulislah sebuah fungsi program dengan kondisi, sebagai berikut:Terdapat sebuah sorted array of strings yang mana terdapat string kosong diantaranya, carilah lokasi/indeks dari kata yang dicari! (30 Poin) Input: bola, {"Adi","","","" "bermain", "", "bola", "", "", "sedang"} Output: 6
 
 #include <iostream>
 #include <vector>
