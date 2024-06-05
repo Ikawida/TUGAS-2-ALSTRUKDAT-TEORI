@@ -1,7 +1,6 @@
 1. Terdapat tiga algoritma sorting yang umum digunakan yakni. Bubble Sort, Selection Sort, dan Merge Sort. Berikan, penjelasan alur dari masing-masing algoritma tersebut. dan jelaskan runtime dari best case dan worst case masing-masing algoritma!
 
 jawab: 
-Tentu saja! Mari kita bahas algoritma sorting tersebut dalam bahasa yang lebih sederhana:
 
 1. **Bubble Sort**:
    - Alur:
